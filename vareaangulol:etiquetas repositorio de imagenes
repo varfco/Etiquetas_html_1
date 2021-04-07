@@ -1,0 +1,1 @@
+docker local-tag:image new-repo:image docke push new-repo:docker pull tamilmaril1989/ubuntu-tools
